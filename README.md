@@ -15,5 +15,5 @@
 - Email: nv049823@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/nitish-kumar-verma-32434b272/
   
-## Theme
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nv049823-web&show_icons=true&theme=radical)
