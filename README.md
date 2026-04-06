@@ -4,8 +4,8 @@
 💻 Passionate about building scalable web applications  
 
 ## 🛠 Tech Stack
-- Frontend: React, HTML, CSS, JavaScript  
-- Backend: Node.js, Express ,JWT, TypeORM
+- Frontend: React, HTML, CSS, JavaScript, Bootstrap, Tailwind
+- Backend: Node.js, Express , JWT, TypeORM
 - Database: MongoDB  PostgresSQL 
 
 ## 🔥 Projects
