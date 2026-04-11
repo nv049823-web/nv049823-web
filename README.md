@@ -9,7 +9,11 @@
 - Database: MongoDB  PostgresSQL 
 
 ## 🔥 Projects
-- 🔗 MERN Auth System (JWT + Role Based Access)  
+- 🔗 MERN Auth System (JWT + Role Based Access)
+- Learning Management System
+- Use Technology
+- React,TypeScript,Express,JWT,TypeORM,PostgreSql
+  
 
 ## 📫 Contact Me
 - Email: nv049823@gmail.com  
